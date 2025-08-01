@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hi there 👋 I'm Ankit Chaubey
+### Hi there 👋 I'm Ankit Chaubey  portfolio live (https://ankit-chaubey.pages.dev)
 
 🚀 MERN Stack Developer | Lifelong Learner | Exploring AI/ML  
 🎓 B.Tech CSE @ Lovely Professional University  
