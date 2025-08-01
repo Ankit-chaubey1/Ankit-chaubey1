@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Ankit-chaubey1/Ankit-chaubey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Ankit Chaubey
 
-Here are some ideas to get you started:
+🚀 MERN Stack Developer | Lifelong Learner | Exploring AI/ML  
+🎓 B.Tech CSE @ Lovely Professional University  
+💡 Passionate about building full-stack web apps and learning how to compete with AI and ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack:  
+- **Languages:** Java, JavaScript, C++, PHP, Python  
+- **Frameworks/Tools:** React.js, Node.js, Express.js, MongoDB, Tailwind, Bootstrap  
+- **Others:** Git, GitHub, Oracle, SQL
+
+📫 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/ankit-chaubey1/) | [GitHub](https://github.com/Ankit-chaubey1) | 📩 chaubeyankit3449@gmail.com
+
