@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi There 👋
 
 ### Hi there 👋 I'm Ankit Chaubey  portfolio live (https://ankit-chaubey.pages.dev)
 
 🚀 MERN Stack Developer | Lifelong Learner | Exploring AI/ML  
+💻Working as Java Full Stack Engineer Internship at Cognizant ⭐@COGNIZANT⭐
 🎓 B.Tech CSE @ Lovely Professional University  
 💡 Passionate about building full-stack web apps and learning how to compete with AI and ML.
 
