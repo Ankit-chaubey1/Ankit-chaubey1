@@ -10,8 +10,8 @@
 
 🔧 Tech Stack:  
 - **Languages:** Java, JavaScript, C++, PHP, Python  
-- **Frameworks/Tools:** React.js, Node.js, Express.js, MongoDB, Tailwind, Bootstrap  
-- **Others:** Git, GitHub, Oracle, SQL
+- **Frameworks/Tools:** React.js, Node.js, Angular.js, SpringBoot, Microservices Express.js, MongoDB, Tailwind, Bootstrap  
+- **Others:** Git, GitHub, Oracle, SQL, Jira
 
 📫 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/ankit-chaubey1/) | [GitHub](https://github.com/Ankit-chaubey1) | 📩 chaubeyankit3449@gmail.com
